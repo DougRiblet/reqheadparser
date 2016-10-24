@@ -14,7 +14,3 @@ https://safe-shelf-53139.herokuapp.com/
 
 Github repository:
 https://github.com/smashzen/reqheadparser
-
-
-
-
