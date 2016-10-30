@@ -2,7 +2,7 @@
 
 Creator: Doug Riblet | https://github.com/smashzen
 
-Project made for the Free Code Camp back-end curriculum. 
+Project made for the Free Code Camp back-end curriculum.  
 https://www.freecodecamp.com/challenges/request-header-parser-microservice
 
 User Story: I can get the IP address, language and operating system for my browser.
